@@ -12,7 +12,7 @@ public class Bewertung2
       // Bedingung eingeleitet.
       // Wenn die Bedingung erfuellt ist, wird der nachfolgende Rumpf ausgefuehrt
       // ("Dann-Zweig").
-      // Sonst wird der Block ausgefuehrt, der dem Schluesselwort else folgt ("Sonst-Zweig).
+      // Sonst wird der Block ausgefuehrt, der dem Schluesselwort else folgt ("Sonst-Zweig).cd
 
       if(punkte >= 50)
       {
